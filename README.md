@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# Hi, I'm [Your Name]
 
 ### 💻 About Me
 I’m a **passionate developer** who loves building things for the web and learning new technologies. I enjoy turning ideas into working projects and solving problems with code.  
