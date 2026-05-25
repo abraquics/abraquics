@@ -1,4 +1,4 @@
-# Hi, I'm [Abraham Quiocson]
+# Hi, I'm Abraham Quiocson
 
 ### About Me
 I’m a **passionate developer** who loves building things for the web and learning new skills technologies. I enjoy turning ideas into working projects and solving problems.
