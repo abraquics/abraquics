@@ -1,12 +1,17 @@
-# Hi, I'm [Your Name]
+# Hi, I'm [Abraham Quiocson]
 
-### 💻 About Me
-I’m a **passionate developer** who loves building things for the web and learning new technologies. I enjoy turning ideas into working projects and solving problems with code.  
-When I’m not coding, I’m usually exploring new tech, reading tech blogs, or working on personal side projects.
+### About Me
+I’m a **passionate developer** who loves building things for the web and learning new skills technologies. I enjoy turning ideas into working projects and solving problems.
+When I’m not coding, I’m usually exploring the outside world nature life.
+**But aside from coding…**  
+Music is my favorite **hobbie**! I’m a **drummer** and part of a band — playing beats, jamming, and making music is my biggest passion outside of programming. For me, coding and drumming are similar: both need practice, rhythm, creativity, and teamwork.
+
+> *"Code builds logic, music builds soul — I do both."*
+
 
 ---
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 - **Languages:** HTML, CSS, JavaScript, Python, PHP
 - **Frameworks:** React, Bootstrap, Laravel
 - **Tools:** Git, GitHub, VS Code, Figma
@@ -14,16 +19,7 @@ When I’m not coding, I’m usually exploring new tech, reading tech blogs, or 
 
 ---
 
-### 🎯 What I’m Working On
-- 🌱 Currently learning: *React Native* & *Cloud Computing*
-- 🚀 Building: A personal portfolio and a small project management tool
-- 🤝 Looking to collaborate on: Open-source projects and web apps
-
----
-
-### 📫 Connect With Me
-- 🔗 [GitHub](https://github.com/yourusername)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 Email: your.email@example.com
-
-> *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
+### What I’m Working On
+- Currently learning: *React Native* & *Cloud Computing*
+- Building: A personal portfolio and a small project management tool
+- Looking to collaborate on: Open-source projects and web apps
