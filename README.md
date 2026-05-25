@@ -12,9 +12,9 @@ Music is my favorite **hobbie**! I’m a **drummer** and part of a band playing 
 ---
 
 ### Skills & Tools
-- **Languages:** HTML, CSS, JavaScript, Python, PHP
-- **Frameworks:** React, Bootstrap, Laravel
-- **Tools:** Git, GitHub, VS Code, Figma
+- **Languages:** HTML, CSS, JavaScript, Python
+- **Frameworks:** React, Bootstrap
+- **Tools:** Git, GitHub, VS Code
 - **Others:** Responsive Design, API Integration, Basic UI/UX
 
 ---
